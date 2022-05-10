@@ -9,3 +9,6 @@ dependencies:
   - geopandas
   - contextily
   - seaborn
+  - bqplot
+  - pyplot
+
