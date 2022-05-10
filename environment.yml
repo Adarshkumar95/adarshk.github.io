@@ -10,5 +10,4 @@ dependencies:
   - contextily
   - seaborn
   - bqplot
-  - pyplot
 
